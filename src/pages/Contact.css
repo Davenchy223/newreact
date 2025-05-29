@@ -1,0 +1,8 @@
+.contact h2 {
+  margin-bottom: 1.5rem;
+}
+
+.contact form {
+  max-width: 600px;
+  margin: 0 auto;
+}

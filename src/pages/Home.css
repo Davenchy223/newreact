@@ -1,0 +1,15 @@
+.home {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #f0f4ff, #e0eaff);
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
